@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - E-mail - aien0118@yu.ac.kr
 
 ## Projects
-- Website : done (software; website-name:dms)
-- Game : ~ing (3D Mafia)
-- iOS App : ~ing (Diaring)
+- Website(Intellij; Java Spring, html) : done (software; website-name:dms)
+- Game(Unity; C#) : ~ing (3D Mafia)
+- iOS App(Xcode; Swift UI) : ~ing (Diaring)
