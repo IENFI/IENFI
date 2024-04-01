@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Introduction
+
+## Career
+- 영남대학교 수학과
+
+## Links
+- E-mail - aien0118@yu.ac.kr
+
+## Projects
+- Website : done (software; website-name:dms)
+- Game : ~ing (3D Mafia)
+- iOS App : ~ing (Diaring)
