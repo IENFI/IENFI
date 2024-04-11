@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## Introduction
+[![IENFI's GitHub stats](https://github-readme-stats.vercel.app/api?username=IENFI&hide=contribs,prs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=swift)](https://github.com/IENFI/github-readme-stats)
+
+<!--
+테마로 vue, ambient_gradient도 괜찮다
+-->
 
 ## Career
 - 영남대학교 수학과
