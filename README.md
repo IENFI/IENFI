@@ -35,9 +35,15 @@ Here are some ideas to get you started:
 - E-mail - myh020118@gmail.com
 
 ## Projects
-- **Website** <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=intellijidea&logoColor=white"/> ,<img src="https://img.shields.io/badge/-6DB33F?style=flat-square&logo=spring&logoColor=white"/> ***DONE*** ~~> [dms](https://github.com/IENFI/software) 
-- **Game** <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=unity&logoColor=white"/> ***DONE*** ~~> [3D Mafia](https://github.com/IENFI/software)
-- **iOS App** <img src="https://img.shields.io/badge/-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/-F05138?style=flat-square&logo=swift&logoColor=white"/> : ***DONE*** ~~> [Diaring](https://github.com/IENFI/Diaring)
+<div align="center">
+  
+| 🖥️ **Website** | 🎮 **Game** | 📱 **iOS App** |
+|---|---|---|
+|<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/-6DB33F?style=flat-square&logo=spring&logoColor=white"/> |<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=unity&logoColor=white"/> |<img src="https://img.shields.io/badge/-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/-F05138?style=flat-square&logo=swift&logoColor=white"/> |
+| ***DONE***  |***DONE*** |***DONE***  |
+|[dms](https://github.com/IENFI/software)   |[3D Mafia](https://github.com/IENFI/software)  |[Diaring](https://github.com/IENFI/Diaring) |
+
+</div>
 
 ## Technology Stack
 <h5 align="center">✨ Languages ✨</h3>
