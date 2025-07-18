@@ -2,7 +2,7 @@
 <div align="center">
   
   ### Hi there 👋
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIENFI%2Fhit-counter&count_bg=%23EDEFEC&title_bg=%23FBC7C7&icon=sketch.svg&icon_color=%23A68E8E&title=hits&edge_flat=false)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 </div>
 <!--
@@ -28,20 +28,22 @@ Here are some ideas to get you started:
 -->
 
 ## Career
-- 영남대학교 수학과
+- 영남대학교 수학과, 컴퓨터공학과(복수전공)
 
 ## Links
 - E-mail - aien0118@yu.ac.kr
+- E-mail - myh020118@gmail.com
 
 ## Projects
-- Website(Intellij; Java Spring, html) : done (software; website-name:dms)
-- Game(Unity; C#) : ~ing (3D Mafia)
-- iOS App(Xcode; Swift UI) : ~ing (Diaring)
+- **Website** <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=intellijidea&logoColor=white"/> ,<img src="https://img.shields.io/badge/-6DB33F?style=flat-square&logo=spring&logoColor=white"/> ***DONE*** ~~> [dms](https://github.com/IENFI/software) 
+- **Game** <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=unity&logoColor=white"/> ***DONE*** ~~> [3D Mafia](https://github.com/IENFI/software)
+- **iOS App** <img src="https://img.shields.io/badge/-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/-F05138?style=flat-square&logo=swift&logoColor=white"/> : ***DONE*** ~~> [Diaring](https://github.com/IENFI/Diaring)
 
 ## Technology Stack
-<img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/-512BD4?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=macos&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> 
 
+ <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=#white"/>
